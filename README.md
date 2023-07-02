@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Jeg heter Bakken-Jantasuk</h1>
-<h3 align="center">Har lidenskap for matematikk og programmering.</h3>
+<h1 align="center">Hi 👋, my name is Bakken-Jantasuk</h1>
+<h3 align="center">Passion for Mathematics and Programming</h3>
 
 - 🌱 I’m currently learning **Laravel, Django, PHP and Node.js**
 
